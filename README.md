@@ -1,2 +1,3 @@
-# irate
-Intermediate representation analysis tooling environment.
+# IRATE
+
+IRATE is the intermediate representation analysis tooling environment.
